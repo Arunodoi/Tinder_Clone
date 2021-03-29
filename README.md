@@ -1,5 +1,5 @@
 # Tinder_Clone
-### This is the Tinder-clone Project built using the [MERN Stack].
+### This is the Tinder-clone Project built using the [ MERN Stack ](https://www.geeksforgeeks.org/mern-stack/)
 
 ![Capture](https://user-images.githubusercontent.com/49027071/112829491-d5c37d80-90ae-11eb-9615-b9909f8db332.PNG)
 
